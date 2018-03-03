@@ -1,6 +1,6 @@
 # Crud Com PHP
 
-Fiz esse pequeno exercício para ajudar alguém do grupo de linguagens de programação no [![facebook](https://www.facebook.com/groups/programadoresincriveis/)].
+Fiz esse pequeno exercício para ajudar alguém do grupo de linguagens de programação no [[facebook](https://www.facebook.com/groups/programadoresincriveis/)].
 
 ## Como Funciona
 
@@ -30,6 +30,6 @@ Divide o projecto numa arquitetura de pastas semelhante a essa:
 
   No arquivo ``Crud.Test.php`` existem 4 métodos que traduzem a sigla ``Crud``, Então para testar cada método abra o arquivo e na ultima linha altere para o método que deseja experimentar.
 
-##Licença
+## Licença
 MIT
-Criado por [![Acidiney Dias](www.facebook.com/acidiney.dias)]
+Criado por [[Acidiney Dias](www.facebook.com/acidiney.dias)]
