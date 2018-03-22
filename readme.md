@@ -1,10 +1,10 @@
 # Crud Com PHP
 
-Fiz esse pequeno exercício para ajudar alguém do grupo de linguagens de programação no [![facebook](https://www.facebook.com/groups/programadoresincriveis/)].
+Fiz esse pequeno exercício para ajudar alguém do grupo de linguagens de programação no [facebook](https://www.facebook.com/groups/programadoresincriveis/).
 
 ## Como Funciona
 
-Divide o projecto numa arquitetura de pastas semelhante a essa:
+Dividi o projecto numa arquitetura de pastas semelhante a essa:
 ```
   > database
     .test.sql
@@ -18,10 +18,10 @@ Divide o projecto numa arquitetura de pastas semelhante a essa:
 ```
 
 ### Pasta Database
-  Normalmente nos bancos de dados ``Mysql`` já tem um banco criado por default cujo nome é ``test`` porém no caso de no seu não existir pode abrir o arquivo ``test.sql`` e tirar os comentarios da linha 31.
+  Normalmente nos SGBD's ``Mysql's`` já têm por default um banco de dados com o nome de ``test`` porém se por venturae no seu não existir pode abrir o arquivo ``test.sql`` e tirar os comentários da linha 31.
 
 ### Pasta tests
-  Basicamente é nesta pasta que possui toda a execução do arquivo ``Crud.Class.php``,  Então se poder dê uma olhada no arquivo ``Crud.Test.php``.
+  Basicamente é nesta pasta que possui toda a execução do arquivo ``Crud.Class.php``,  Então se puder dê uma olhada no arquivo ``Crud.Test.php``.
 
   O arquivo ``Base.Test.php`` possui uma classe com um único método o ``expect`` que é usado no arquivo que testa a conexão com o banco de dados ``Db.Test.php``.
 
@@ -30,6 +30,6 @@ Divide o projecto numa arquitetura de pastas semelhante a essa:
 
   No arquivo ``Crud.Test.php`` existem 4 métodos que traduzem a sigla ``Crud``, Então para testar cada método abra o arquivo e na ultima linha altere para o método que deseja experimentar.
 
-##Licença
+## Licença
 MIT
-Criado por [![Acidiney Dias](www.facebook.com/acidiney.dias)]
+Criado por [Acidiney Dias](https://www.facebook.com/acidiney.dias)
