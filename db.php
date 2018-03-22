@@ -7,7 +7,7 @@ $connect = [
   'database_name' => 'test'
 ];
 
-$con = @mysqli_connect($connect['host'],
+$con = mysqli_connect($connect['host'],
                       $connect['username'],
                       $connect['password'],
                       $connect['database_name']
